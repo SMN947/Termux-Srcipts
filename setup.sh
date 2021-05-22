@@ -1,4 +1,4 @@
-#!//data/com.termux/files/usr/bin/bash
+#!/usr/bin/bash
 current_dir=$(pwd)
 pkg install ncurses-utils && clear 
 #vars
